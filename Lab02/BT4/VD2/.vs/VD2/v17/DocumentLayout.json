@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dream\\OneDrive\\Desktop\\Labs-Visual-Programming\\Lab02\\BT4\\VD2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{95A5EFBD-28F0-4558-8137-9BAFE71E1DE1}|VD2\\VD2.csproj|c:\\users\\dream\\onedrive\\desktop\\labs-visual-programming\\lab02\\bt4\\vd2\\vd2\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95A5EFBD-28F0-4558-8137-9BAFE71E1DE1}|VD2\\VD2.csproj|solutionrelative:vd2\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95A5EFBD-28F0-4558-8137-9BAFE71E1DE1}|VD2\\VD2.csproj|c:\\users\\dream\\onedrive\\desktop\\labs-visual-programming\\lab02\\bt4\\vd2\\vd2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95A5EFBD-28F0-4558-8137-9BAFE71E1DE1}|VD2\\VD2.csproj|solutionrelative:vd2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95A5EFBD-28F0-4558-8137-9BAFE71E1DE1}|VD2\\VD2.csproj|c:\\users\\dream\\onedrive\\desktop\\labs-visual-programming\\lab02\\bt4\\vd2\\vd2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{95A5EFBD-28F0-4558-8137-9BAFE71E1DE1}|VD2\\VD2.csproj|solutionrelative:vd2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\dream\\OneDrive\\Desktop\\Labs-Visual-Programming\\Lab02\\BT4\\VD2\\VD2\\Form1.cs",
+              "RelativeDocumentMoniker": "VD2\\Form1.cs",
+              "ToolTip": "C:\\Users\\dream\\OneDrive\\Desktop\\Labs-Visual-Programming\\Lab02\\BT4\\VD2\\VD2\\Form1.cs",
+              "RelativeToolTip": "VD2\\Form1.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T08:03:26.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\dream\\OneDrive\\Desktop\\Labs-Visual-Programming\\Lab02\\BT4\\VD2\\VD2\\Form1.cs",
+              "RelativeDocumentMoniker": "VD2\\Form1.cs",
+              "ToolTip": "C:\\Users\\dream\\OneDrive\\Desktop\\Labs-Visual-Programming\\Lab02\\BT4\\VD2\\VD2\\Form1.cs [Design]",
+              "RelativeToolTip": "VD2\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T07:59:19.93Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\dream\\OneDrive\\Desktop\\Labs-Visual-Programming\\Lab02\\BT4\\VD2\\VD2\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "VD2\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\dream\\OneDrive\\Desktop\\Labs-Visual-Programming\\Lab02\\BT4\\VD2\\VD2\\Form1.Designer.cs",
+              "RelativeToolTip": "VD2\\Form1.Designer.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T07:56:25.805Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
